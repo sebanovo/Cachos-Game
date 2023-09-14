@@ -122,6 +122,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="678gamedice_100992.ico" />
+    <Content Include="Resources\Executable\cachos_Practico_Numeros_Enteros.exe" />
     <None Include="Resources\Resources.bmp" />
     <None Include="Resources\cara3.png" />
     <None Include="Resources\cara2.png" />
