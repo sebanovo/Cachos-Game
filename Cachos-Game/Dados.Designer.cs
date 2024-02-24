@@ -1,4 +1,4 @@
-﻿namespace cachos_sebastian_cespedes_rodas_223047333
+﻿namespace Cachos_Game
 {
     partial class Dados
     {
@@ -128,7 +128,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
-            this.ClientSize = new System.Drawing.Size(661, 389);
+            this.ClientSize = new System.Drawing.Size(663, 393);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.textBox1);

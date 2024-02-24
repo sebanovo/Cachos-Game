@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace cachos_sebastian_cespedes_rodas_223047333
+namespace Cachos_Game
 {
     static class Program
     {

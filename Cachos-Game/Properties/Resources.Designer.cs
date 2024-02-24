@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace cachos_sebastian_cespedes_rodas_223047333.Properties {
+namespace Cachos_Game.Properties {
     using System;
     
     

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cachos-sebastian-cespedes-rodas-223047333", "cachos-sebastian-cespedes-rodas-223047333\cachos-sebastian-cespedes-rodas-223047333.csproj", "{84DECD74-A574-498C-9978-A11391F0F74A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cachos-Game", "Cachos-Game\Cachos-Game.csproj", "{84DECD74-A574-498C-9978-A11391F0F74A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
