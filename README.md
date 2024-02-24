@@ -1,12 +1,16 @@
-# C# + Visual Studio 
+# C# + Visual Studio
 
-#Juego de Cachos
+# Juego de Cachos
 
 Este es un proyecto de juego de Cachos desarrollado en C# con Windows Forms.
 
+<div align="center">
+  <img src="https://i.postimg.cc/NFnDDx4f/cachos-image.png" alt="cachos-image" border="0" width="400">
+</div>
+
 ## Instrucciones del Juego
 
-El juego de Cachos es un juego de dados en el que el objetivo es obtener diferentes combinaciones de dados. Las combinaciones incluyen la "Grande" (todos los dados iguales), "Poker" (cuatro dados iguales y uno diferente), "Full" (dos dados iguales y tres dados iguales), "Escalera" (dados correlativos) y otras. 
+El juego de Cachos es un juego de dados en el que el objetivo es obtener diferentes combinaciones de dados. Las combinaciones incluyen la "Grande" (todos los dados iguales), "Poker" (cuatro dados iguales y uno diferente), "Full" (dos dados iguales y tres dados iguales), "Escalera" (dados correlativos) y otras.
 
 Para jugar, sigue estos pasos:
 
