@@ -27,7 +27,7 @@ Si deseas ejecutar el juego en tu entorno local de Visual Studio, sigue estos pa
 
 2. En el menú superior, selecciona "Archivo" y luego "Clonar repositorio".
 
-3. Pega la URL del repositorio en el campo "URL del repositorio". La URL del repositorio es: `https://github.com/sebanovo/Cachos-Game.git`
+3. Pega la URL del repositorio en el campo "URL del repositorio". La URL del repositorio es: `https://github.com/sebanovo/cachos-game.git`
 
 4. Elige una ubicación local en tu computadora donde desees clonar el repositorio.
 
