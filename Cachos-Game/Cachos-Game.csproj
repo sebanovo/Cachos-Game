@@ -7,8 +7,8 @@
     <ProjectGuid>{84DECD74-A574-498C-9978-A11391F0F74A}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>cachos_sebastian_cespedes_rodas_223047333</RootNamespace>
-    <AssemblyName>cachos_Practico_Numeros_Enteros</AssemblyName>
+    <RootNamespace>cachos_game</RootNamespace>
+    <AssemblyName>cachos_game</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -63,7 +63,7 @@
     <ManifestCertificateThumbprint>9D2B8715E0856F907F928FC7B37BDB4AAF5013D2</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>cachos-sebastian-cespedes-rodas-223047333_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestKeyFile>cachos_game_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
     <GenerateManifests>true</GenerateManifests>
@@ -121,7 +121,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="678gamedice_100992.ico" />
-    <Content Include="Resources\Executable\cachos_Practico_Numeros_Enteros.exe" />
     <None Include="Resources\Resources.bmp" />
     <None Include="Resources\cara3.png" />
     <None Include="Resources\cara2.png" />

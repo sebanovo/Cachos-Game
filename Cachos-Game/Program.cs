@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Cachos_Game
+namespace cachos_game 
 {
     static class Program
     {

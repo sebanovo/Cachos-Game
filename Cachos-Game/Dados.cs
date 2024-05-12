@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Cachos_Game
+namespace cachos_game 
 {
     public partial class Dados : Form
     {
@@ -63,10 +63,6 @@ namespace Cachos_Game
             {
                 textBox1.Text = "ES CHANFLE";
             }
-
-
-
-
         }
 
         public void ponerDadoEnPicture(int dado, PictureBox picture)

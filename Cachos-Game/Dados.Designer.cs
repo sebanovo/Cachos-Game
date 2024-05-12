@@ -1,4 +1,4 @@
-﻿namespace Cachos_Game
+﻿namespace cachos_game 
 {
     partial class Dados
     {

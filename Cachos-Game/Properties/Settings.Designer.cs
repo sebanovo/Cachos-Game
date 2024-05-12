@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Cachos_Game.Properties
+namespace cachos_game.Properties
 {
 
 
